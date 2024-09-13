@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "BouncyBabylons"
+  text: "MIT's smartest student"
+  tagline: "and a collection of coding masterpieces"
   actions:
     - theme: brand
       text: Template Repository
