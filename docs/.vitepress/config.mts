@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Bouncy's Best Bits",
   description: "6.1040 Fall 2024",
   // TODO: add your base here; this should be your repo name!
-  // base: "/portfolio-bouncy/",
+  base: "/portfolio-bouncy/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
