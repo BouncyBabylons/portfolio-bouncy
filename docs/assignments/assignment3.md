@@ -151,7 +151,7 @@ https://www.figma.com/proto/ToG7PlFsIMmBp992iHviRJ/Enny?node-id=6-7&t=IxS0m0DmxH
 
 I had initially struggled with deciding whether to generalize or specialize in regards to what form(s) of entertainment should be possible to review. I had a conversation with a relative who believed it would be better to concentrate on one form of media -- books, for example. 
 
-Ultimately I wanted to give freedom to the user to decide what Enny would be best used for. Inspired by reading about [doorbells in jungles](/https://medium.com/@komorama/the-doorbell-in-the-jungle-cca22fbd78d0), I decided to add an "other" category as an option for a user who's leaving a review.
+Ultimately I wanted to give freedom to the user to decide what Enny would be best used for. Inspired by reading about [doorbells in jungles](https://medium.com/@komorama/the-doorbell-in-the-jungle-cca22fbd78d0), I decided to add an "other" category as an option for a user who's leaving a review.
 
 ### Content Engagement  
 
