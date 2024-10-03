@@ -90,19 +90,18 @@ While entertainment is universally appreciated, **Enny** is not for everybody. *
 **Operational Principle**: if a user creates a username and password, they can gain access to their account privileges by entering them in a text field  
 **State**:  
   >  registered: set Users  
-     username, password: one String  
+     username, password: registered -> one String  
 
 **Actions**:  
   >  signUp  
-     login  
-     logout  
+     deleteAccount 
 
 
 #### Sessioning
 **Purpose**: allow users to perform authenticated actions until logout  
 **Operational Principle**: after a user provides their username and password to log in they gain access to privileged account actions  
 **State**:  
-  >  user: one User  
+  >  user: set User  
      loginTime: one Time  
      session: one Session  
      logoutTime: one Time  
@@ -116,7 +115,7 @@ While entertainment is universally appreciated, **Enny** is not for everybody. *
 **Purpose**: to give feedback on a review  
 **Operational Principle**: if a user wants to add commentary to an item in the feed they can share their thoughts in that way   
 **State**:  
-  >  author: one User  
+  >  author: set User  
      commentBody: one String  
      commentTarget: one Item  
 
